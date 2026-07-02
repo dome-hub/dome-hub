@@ -1,16 +1,21 @@
-## Hi there 👋
+# Kunakorn Kanlayawutipong
+Aspiring Cybersecurity Professional | Kasetsart University 
 
-<!--
-**dome-hub/dome-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## Certification
 
-Here are some ideas to get you started:
+# ISC2 Certified in Cybersecurity (CC) - May 2026 
+![CC Certificate](cc.jpg) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✅ Fortinet Certified Fundamentals (FCF) — June 2026
+![FCF Certificate](Fortinet Certified Fundamentals in Cybersecurity_FCF.jpg)
+
+### ✅ Fortinet Certified Associate (FCA) — June 2026
+![FCA Certificate](Fortinet Certified Associate in Cybersecurity_FCA.jpg)
+
+---
+
+## 🛠️ Skills
+- Security Tools: OWASP ZAP, Wireshark, Kali Linux, Metasploit
+- Programming: C, Java, JavaScript, SQL
+- Frameworks: Robot Framework, Selenium, Playwright
