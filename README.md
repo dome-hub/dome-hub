@@ -5,13 +5,13 @@ Aspiring Cybersecurity Professional | Kasetsart University
 ## Certification
 
 # ISC2 Certified in Cybersecurity (CC) - May 2026 
-![CC Certificate](cc.jpg) 
+![CC Certificate](CC.jpg)
 
 ### ✅ Fortinet Certified Fundamentals (FCF) — June 2026
-![FCF Certificate](Fortinet Certified Fundamentals in Cybersecurity_FCF.jpg)
+![FCF Certificate](Fortinet%20Certified%20Fundamentals%20in%20Cybersecurity_FCF.jpg)
 
 ### ✅ Fortinet Certified Associate (FCA) — June 2026
-![FCA Certificate](Fortinet Certified Associate in Cybersecurity_FCA.jpg)
+![FCA Certificate](Fortinet%20Certified%20Associate%20in%20Cybersecurity_FCA.jpg)
 
 ---
 
