@@ -1,5 +1,5 @@
 # Kunakorn Kanlayawuvtipong
-🔐 Aspiring Cybersecurity Professional | Kasetsart University
+Aspiring Cybersecurity Professional | Kasetsart University
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Skills
+## Skills
 - Security Tools: OWASP ZAP, Wireshark, Kali Linux, Metasploit
 - Programming: C, Java, JavaScript, SQL
 - Frameworks: Robot Framework, Selenium, Playwright
