@@ -1,17 +1,18 @@
 # Kunakorn Kanlayawuvtipong
-Aspiring Cybersecurity Professional | Kasetsart University 
+🔐 Aspiring Cybersecurity Professional | Kasetsart University
 
 ---
-## Certification
 
-# ISC2 Certified in Cybersecurity (CC) - May 2026 
-![CC Certificate](CC.jpg)
+## 🏆 Certifications
+
+### ✅ ISC2 Certified in Cybersecurity (CC) — May 2026
+<img src="CC.jpg" width="400"/>
 
 ### ✅ Fortinet Certified Fundamentals (FCF) — June 2026
-![FCF Certificate](Fortinet%20Certified%20Fundamentals%20in%20Cybersecurity_FCF.jpg)
+<img src="Fortinet%20Certified%20Fundamentals%20in%20Cybersecurity_FCF.jpg" width="400"/>
 
 ### ✅ Fortinet Certified Associate (FCA) — June 2026
-![FCA Certificate](Fortinet%20Certified%20Associate%20in%20Cybersecurity_FCA.jpg)
+<img src="Fortinet%20Certified%20Associate%20in%20Cybersecurity_FCA.jpg" width="400"/>
 
 ---
 
