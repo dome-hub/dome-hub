@@ -18,5 +18,5 @@ Aspiring Cybersecurity Professional | Kasetsart University
 
 ## Skills
 - Security Tools: OWASP ZAP, Wireshark, Kali Linux, Metasploit
-- Programming: C, Java, JavaScript, SQL
+- Programming: C, Java, JavaScript, SQL ,Cobol
 - Frameworks: Robot Framework, Selenium, Playwright
