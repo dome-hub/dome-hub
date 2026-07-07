@@ -22,4 +22,4 @@ Aspiring Cybersecurity Professional | Kasetsart University
 - Frameworks: Robot Framework, Selenium, Playwright
 
 ## Learn
-TryHackMe: [tryhackme.com/p/kunakorn.kan]([https://tryhackme.com/p/kunakorn.kan](https://tryhackme.com/p/kunakorn))
+TryHackMe: https://tryhackme.com/p/kunakorn.kan
