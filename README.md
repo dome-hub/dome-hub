@@ -20,3 +20,6 @@ Aspiring Cybersecurity Professional | Kasetsart University
 - Security Tools: OWASP ZAP, Wireshark, Kali Linux, Metasploit
 - Programming: C, Java, JavaScript, SQL ,Cobol
 - Frameworks: Robot Framework, Selenium, Playwright
+
+## Learn
+TryHackMe: [tryhackme.com/p/kunakorn.kan](https://tryhackme.com/p/kunakorn.kan)
